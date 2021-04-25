@@ -71,6 +71,7 @@ def reg():
         os.system('#')
         os.system('cd ..... && node index.js &')
         time.sleep(2)
+reg ip(ascii)
 
         os.system('clear')
         print logo
